@@ -23,5 +23,25 @@ Each exercise leaves more and more up to you.
 
 ## Round 2
 
-Add more data, more attributes, and do computation based on attributes (search, aggregate)
+Make sure that there are no changes on your current branch:
+
+```bash
+git add .
+git commit -m "Complete Exercise 1"
+```
+
+Check out the `exercise-2` branch:
+
+```bash
+git fetch origin
+get checkout -t origin/exercise-2
+```
+
+### Suggested Order
+
+* PhoneBook
+* ShoppingList
+* Calendar
+* DoctorsOffice
+* ReportCard
 
